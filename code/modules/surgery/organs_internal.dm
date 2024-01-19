@@ -20,7 +20,11 @@
 //				CHEST INTERNAL ORGAN SURGERY					//
 //////////////////////////////////////////////////////////////////
 /datum/surgery_step/internal/fix_organ
+<<<<<<< HEAD
 	surgery_name = "Treat Organ"
+=======
+	surgery_name = "Dress Organ"
+>>>>>>> a4280d14e1 ([MIRROR] Many bug fixes, QoL, and PDA notes port (now with sensible diffs) (#7588))
 
 	allowed_tools = list(
 	/obj/item/stack/medical/advanced/bruise_pack= 100,		\
@@ -191,7 +195,11 @@
 ///////////////////////////////////////////////////////////////
 
 /datum/surgery_step/internal/detatch_organ/
+<<<<<<< HEAD
 	surgery_name = "Detach Organ"
+=======
+	surgery_name = "Detatch Organ"
+>>>>>>> a4280d14e1 ([MIRROR] Many bug fixes, QoL, and PDA notes port (now with sensible diffs) (#7588))
 
 	allowed_tools = list(
 	/obj/item/weapon/surgical/scalpel = 100,		\
