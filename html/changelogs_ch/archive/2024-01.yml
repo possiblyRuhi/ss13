@@ -195,5 +195,7 @@
   - rscadd: VoreFX now applies to those indirectly in a belly. Such as those being
       held by someone or in a item inside a belly.
 2024-01-21:
+  Upstream:
+  - rscadd: Added new trait (Bad Swimmer)
   VoRe-bot:
   - maptweak: Isolation ward exterior windows made electrochromatic
