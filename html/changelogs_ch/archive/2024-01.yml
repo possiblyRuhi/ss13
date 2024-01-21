@@ -197,5 +197,7 @@
 2024-01-21:
   Upstream:
   - rscadd: Added new trait (Bad Swimmer)
+  - bugfix: added var_edit rights to resize
+  - bugfix: added var_edit and fun rights to robot module handling
   VoRe-bot:
   - maptweak: Isolation ward exterior windows made electrochromatic
