@@ -201,3 +201,18 @@
   - bugfix: added var_edit and fun rights to robot module handling
   VoRe-bot:
   - maptweak: Isolation ward exterior windows made electrochromatic
+2024-01-22:
+  VoRe-bot:
+  - rscadd: Bodycams, configurable in hand and attachable to suits
+  - rscadd: Added a unique monitor for bodycams, constructable like entertainment
+      monitors.
+  - rscadd: Adds a bodycam to security lockers, and to SecTech vendors.
+  - maptweak: Adds bodycam monitors to sec desk, hos office, warden office, and security
+      briefing room.
+  - rscadd: '<!-- Both :cl:''s are required for the changelog to work! You can put
+      your name to the right of the first :cl: if you want to overwrite your GitHub
+      username as author ingame. -->'
+  - rscadd: <!-- You can use multiple of the same prefix (they're only used for the
+      icon ingame) and delete the unneeded ones. Despite some of the tags, changelogs
+      should generally represent how a player might be affected by the changes rather
+      than a summary of the PR's contents. -->
